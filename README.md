@@ -1,3 +1,3 @@
-# Tienda de Manzanas 🍎
+# Página de chopin 🎹 
 
-En este sitio puedes encontrar mucha información sobre manzanas.
+En este sitio puedes encontrar mucha información sobre Chopin.
